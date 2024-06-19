@@ -36,3 +36,10 @@ GenreData.dat: A data file containing genre information.
 LibraryGenre.bat and LibraryGenre.jar: Executable files for running the application.
 compile.sh: A shell script for compiling the Java files.
 replit.nix: A Nix file for the Replit environment.
+
+Contributing
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+License
+This project is licensed under the MIT License.
+Acknowledgments
+We would like to thank our instructors and peers for their guidance and support throughout the development of this project.
